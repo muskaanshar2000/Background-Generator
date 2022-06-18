@@ -1,0 +1,11 @@
+body{
+    font-family: cursive;
+    color:indianred;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    background-image: linear-gradient(to right,#3498DB,purple)
+}
+h1{
+    font-family: 'fantasy';
+}
